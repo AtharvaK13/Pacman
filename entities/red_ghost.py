@@ -17,5 +17,4 @@ class RedGhost(Ghost):
             self.try_alternative_move(collision_manager, walls)
 
     def try_alternative_move(self, collision_manager, walls):
-        # Implement logic to choose a different direction
-        pass  # For simplicity, we'll leave this as a placeholder
+        pass
