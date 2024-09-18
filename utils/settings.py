@@ -1,0 +1,3 @@
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+LEVEL_FILE = 'levels/levels1.txt'
