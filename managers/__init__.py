@@ -9,3 +9,6 @@
 #     'CollisionManager',
 #     'LevelManager'
 # ]
+
+#TODO
+#fix the error on init
